@@ -1,0 +1,4 @@
+../Src/led.c:6:6:configure_mode	16	static
+../Src/led.c:16:14:led_init	24	static
+../Src/led.c:55:6:led_on	16	static
+../Src/led.c:65:6:led_off	16	static
