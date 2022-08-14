@@ -15,7 +15,7 @@ void short_delay()
 
 void long_delay()
 {
-	delay(10000000);
+	delay(5000000);
 }
 
 int main(void)
